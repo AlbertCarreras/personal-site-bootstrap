@@ -1,0 +1,77 @@
+/* 
+===========================================Overall Customization
+*/
+
+body {
+  background: #293f50;
+  color: #fff;
+  font-family: "Poiret One";
+}
+
+.btn {
+  background: 0;
+  border:0;
+  box-shadow: none;
+  padding: 10px ;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: 400;
+  letter-spacing: .5px;
+  text-decoration: none;
+  
+}
+
+.btn:hover {
+  background: #fff;
+  color:  #648880;
+  text-shadow: none;
+}
+
+/* 
+===========================================Header
+*/
+
+header{
+  margin-top: 90px;
+  text-align: center;
+}
+
+.main-photo {
+  height: 200px;
+}
+
+.main-header {
+  font-size: 7vw;
+  margin: 0;
+}
+
+/* 
+===========================================Body
+*/
+
+body {
+  text-align: center;
+}
+
+.btn-li {
+  font-size: 7vw;
+  color: rgba(255, 255, 255, .3);
+  }
+
+.btn-li:hover {
+  color: #fff;
+}
+
+.content-left p {
+  margin: 30px auto;
+}
+  
+/* 
+===========================================Footer
+*/
+
+.contact-me {
+  text-align: center;
+}
+
+
